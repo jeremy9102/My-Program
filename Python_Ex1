@@ -1,0 +1,9 @@
+'''
+update : 2018/9/23
+'''
+
+for a in range(4) :
+  for b in range(4) :
+    for c in range(5) :
+      if a != b and  b != c and c != a :
+        print(a, b, c)
