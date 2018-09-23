@@ -1,5 +1,6 @@
 '''
 update : 2018/9/23
+source : http://www.runoob.com/python/python-exercise-example1.html
 '''
 
 for a in range(4) :
